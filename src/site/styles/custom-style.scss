@@ -10,8 +10,9 @@ body {
     //  h1 {
     //   color: black;
     //  }
-    --dg-background-color: #f0e6d2; 
-    --dg-background-image: url('https://raw.githubusercontent.com/Nathan-J-Pappe-DM/world-of-elaris/refs/heads/main/Parchment%20background.jpg');
+    background-image: url('https://raw.githubusercontent.com/Nathan-J-Pappe-DM/world-of-elaris/refs/heads/main/Parchment%20background.jpg');
+    background-size: cover;
+    background-position: center;
     font-family: 'Lora', 'Baskerville', serif;
 
     h1 {
